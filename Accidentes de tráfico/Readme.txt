@@ -1,0 +1,3 @@
+El archivo "traffic_accidents" contiene el conjunto de datos original en el que está basado el proyecto.
+El archivo "Proyecto accidentes de tráfico" con extensión .pdf es el proyecto completo en versión PDF.
+El archivo "Proyecto accidentes de tráfico" con extensión .ipynb es el proyecto en formato cuaderno de Jupyter (Jupyter Notebook) para el que desee explorar e interactuar con el código del proyecto por su cuenta.
